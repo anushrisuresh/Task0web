@@ -6,7 +6,13 @@
   background-repeat: no-repeat;
   background-size: cover;
 
-	font-family: impact;
+	
 	color:white;
 
+}
+h1,h3,h5{
+	font-family: impact;
+}
+p{
+	font-family: courier;
 }
