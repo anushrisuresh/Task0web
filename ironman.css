@@ -1,5 +1,11 @@
-body{
+.background{
 	background-image: url(https://wallpapercave.com/wp/kOJx6aP.jpg);
+	 height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 	font-family: impact;
 	color:white;
 
