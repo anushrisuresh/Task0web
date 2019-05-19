@@ -12,7 +12,11 @@
 }
 h1,h3,h5{
 	font-family: impact;
+	color:white;
 }
 p{
 	font-family: courier;
+}
+body{
+	background-color: black;
 }
