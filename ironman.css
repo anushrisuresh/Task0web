@@ -13,9 +13,10 @@
 h1,h3,h5{
 	font-family: impact;
 	color:white;
+	
 }
 p{
-	font-family: courier;
+	font-family: Helvetica;
 }
 body{
 	background-color: black;
