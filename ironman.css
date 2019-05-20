@@ -13,10 +13,11 @@
 h1,h3,h5{
 	font-family: impact;
 	color:white;
-	
+
 }
 p{
 	font-family: Helvetica;
+	opacity:0.8;
 }
 body{
 	background-color: black;
